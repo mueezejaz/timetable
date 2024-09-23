@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Timetable</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="days-container">
+        <div class="day" data-day="Monday">Monday</div>
+        <div class="day" data-day="Tuesday">Tuesday</div>
+        <div class="day" data-day="Wednesday">Wednesday</div>
+        <div class="day" data-day="Thursday">Thursday</div>
+        <div class="day" data-day="Friday">Friday</div>
+    </div>
+
+    <!-- Hidden timetable container -->
+    <div class="timetable-container" id="timetableContainer">
+        <div class="timetable">
+            <span class="close-btn" id="closeBtn">&times;</span>
+            <h2 id="dayTitle"></h2>
+            <ul id="timeTableContent"></ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

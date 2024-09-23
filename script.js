@@ -72,6 +72,14 @@ const timetable = {
             location: "/"
         },
         {
+            subject: "PY-305-P",
+            time: "4:15 - 5:45",
+            teacher: "Mr M Azam",
+            Class: "(E-1)",
+            Address: "Phy Dept",
+            location: "/"
+        },
+        {
             subject: "CS-305-T",
             time: "5:45 - 7:15",
             teacher: "not mentioned",

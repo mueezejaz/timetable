@@ -33,7 +33,7 @@ const timetable = {
             teacher: "Ms. Ayesha Kokab",
             Class: "(COMBINE)",
             Address: "Engineering-Block GF # R-1",
-            location: "/"
+            location: "https://maps.app.goo.gl/kLgPJVEdHCUN9umx8"
         },
         {
             subject: "PY-305-T",

@@ -32,7 +32,7 @@ const timetable = {
             time: "2:00 - 4:15",
             teacher: "Ms. Ayesha Kokab",
             Class: "(COMBINE)",
-            Address: "Engineer-Block GF # R-1",
+            Address: "Engineering-Block GF # R-1",
             location: "/"
         },
         {

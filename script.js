@@ -25,14 +25,6 @@ const timetable = {
             Address: "First Floor Lab#2",
             location: "/"
         },
-        {
-            subject: "PY-305-P",
-            time: "5:00 - 6:30",
-            teacher: "Mr. M. Azam",
-            Class: "(E-2)",
-            Address: "First Floor Lab#3",
-            location: "/"
-        }
     ],
     Tuesday: [
         {
@@ -41,14 +33,6 @@ const timetable = {
             teacher: "Ms. Ayesha Kokab",
             Class: "(COMBINE)",
             Address: "Eng-Block GF # R-1",
-            location: "/"
-        },
-        {
-            subject: "CS-305-T",
-            time: "4:15 - 5:45",
-            teacher: "Mr. Rehan Ali Qazi",
-            Class: "(E-2)",
-            Address: "Old Building Math Dept R #1",
             location: "/"
         },
         {
@@ -85,14 +69,6 @@ const timetable = {
             teacher: "not mentioned",
             Class: "(COMBINE)",
             Address: "Eng-Block 3F # R-1",
-            location: "/"
-        },
-        {
-            subject: "CS-305-T",
-            time: "4:15 - 5:45",
-            teacher: "Mr. Rehan Ali Qazi",
-            Class: "(E-2)",
-            Address: "IT Building CS Lab",
             location: "/"
         },
         {

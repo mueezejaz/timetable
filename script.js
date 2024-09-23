@@ -7,7 +7,7 @@ const timetable = {
             teacher: "not mentioned",
             Class: "(COMBINE)",
             Address: "DSA Building R#2",
-            location: "/"
+            location: "https://maps.app.goo.gl/jcnUDAS66e6rGkJi8"
         },
         {
             subject: "FA-310",

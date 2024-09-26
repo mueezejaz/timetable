@@ -20,7 +20,7 @@ const timetable = {
         {
             subject: "CS-305-P",
             time: "5:00 - 6:30",
-            teacher: "not mentioned",
+            teacher: "Hafiz Bilal",
             Class: "(E-1)",
             Address: "IT building lab",
             location: "/"

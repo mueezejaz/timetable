@@ -22,7 +22,7 @@ const timetable = {
             time: "5:00 - 6:30",
             teacher: "not mentioned",
             Class: "(E-1)",
-            Address: "First Floor Lab#2",
+            Address: "IT building lab",
             location: "/"
         },
     ],

@@ -67,7 +67,7 @@ const timetable = {
             subject: "Math-301",
             time: "2:00 - 4:15",
             teacher: "not mentioned",
-            Class: "(COMBINE)",
+            Class: "(COMBINE) only for bio students",
             Address: "Eng-Block 3F # R-1",
             location: "/"
         },
@@ -79,14 +79,7 @@ const timetable = {
             Address: "Phy Dept",
             location: "/"
         },
-        {
-            subject: "CS-305-T",
-            time: "5:45 - 7:15",
-            teacher: "not mentioned",
-            Class: "(E-1)",
-            Address: "IT Building CS Lab",
-            location: "/"
-        }
+        
     ],
     Friday: [
         {
@@ -95,6 +88,14 @@ const timetable = {
             teacher: "Dr. M. Kashif",
             Class: "(COMBINE)",
             Address: "CS-LTR",
+            location: "/"
+        },
+        {
+            subject: "CS-305-T",
+            time: "4:15 - 5:00",
+            teacher: "Hafiz Bilal",
+            Class: "(E-1)",
+            Address: "IT Building room#2",
             location: "/"
         }
     ]
